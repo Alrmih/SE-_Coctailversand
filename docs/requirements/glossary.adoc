@@ -51,3 +51,6 @@ In diesem Dokument werden die wesentlichen Begriffe aus dem Anwendungsgebiet (Fa
 ....
 include::{plantumlsdir}/Klassenmodell.puml[]
 ....
+
+== hat alles geklappt?
+=== key 
