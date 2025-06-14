@@ -45,3 +45,9 @@ In diesem Dokument werden die wesentlichen Begriffe aus dem Anwendungsgebiet (Fa
 
 == Domänenmodell
 // Fügen Sie hier eine Abbildung mit ihrem Domänenmodell ein
+
+.Klassendiagramm mit PlantUML
+[plantuml, "{diagramsdir}/Klassenmodell", svg]
+....
+include::{plantumlsdir}/Klassenmodell.puml[]
+....
